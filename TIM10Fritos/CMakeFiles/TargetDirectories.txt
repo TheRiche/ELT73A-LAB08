@@ -1,0 +1,5 @@
+C:/Users/Aluno/Desktop/lab 08/ELT73A-LAB08/TIM10Fritos/CMakeFiles/TIM10Fritos.dir
+C:/Users/Aluno/Desktop/lab 08/ELT73A-LAB08/TIM10Fritos/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/lab 08/ELT73A-LAB08/TIM10Fritos/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Desktop/lab 08/ELT73A-LAB08/TIM10Fritos/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Desktop/lab 08/ELT73A-LAB08/TIM10Fritos/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
